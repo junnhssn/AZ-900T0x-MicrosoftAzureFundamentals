@@ -1,8 +1,3 @@
----
-wts:
-    title: '22 - Open a Support Request'
-    module: 'Not currently utilized in current exam'
----
 # 22 - Open a Support Request
 
 In this walkthrough, we will view available support plan options and then practice creating and monitoring a new support request.

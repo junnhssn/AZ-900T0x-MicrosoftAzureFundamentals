@@ -1,8 +1,3 @@
----
-wts:
-    title: '13 - Secure network traffic'
-    module: 'Module 04: Describe general security and network security features'
----
 # 13 - Secure network traffic
 
 In this walk-through, we will configure a network security group.

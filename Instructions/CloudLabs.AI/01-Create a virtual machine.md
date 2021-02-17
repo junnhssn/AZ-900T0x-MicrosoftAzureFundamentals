@@ -1,8 +1,3 @@
----
-wts:
-    title: '01 - Create a virtual machine in the portal'
-    module: 'Module 02 - Core Azure Services'
----
 # 01 - Create a virtual machine in the portal
 
 In this walkthrough, we will create a virtual machine in the Azure portal, connect to the virtual machine, install the web server role and test. 

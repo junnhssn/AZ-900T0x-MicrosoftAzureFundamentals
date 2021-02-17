@@ -1,8 +1,3 @@
----
-wts:
-    title: '12 - Implement Azure Key Vault'
-    module: 'Module 04: Describe general security and network security features'
----
 # 12 - Implement Azure Key Vault
 
 In this walkthrough, we will create an Azure Key vault and then create a password secret within that key vault, providing a securely stored, centrally managed password for use with applications.

@@ -1,8 +1,3 @@
----
-wts:
-    title: '06 - Create a SQL database'
-    module: 'Module 02 - Core Azure Services'
----
 
 # 06 - Create a SQL database
 

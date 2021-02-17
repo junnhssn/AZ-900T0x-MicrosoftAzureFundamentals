@@ -1,8 +1,3 @@
----
-wts:
-    title: '08 - Implement Azure Functions'
-    module: 'Module 03: Describe core solutions and management tools'
----
 # 08 - Implement Azure Functions
 
 In this walkthrough, we will create a Function App to display a Hello message when there is an HTTP request. 

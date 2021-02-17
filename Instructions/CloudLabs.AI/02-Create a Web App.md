@@ -1,8 +1,3 @@
----
-wts:
-    title: '02 - Create a Web App'
-    module: 'Module 02 - Core Azure Services
----
 # 02 - Create a Web App
 
 In this walkthrough, we will create a new web app that runs a Docker container. The container displays a Welcome message. 
